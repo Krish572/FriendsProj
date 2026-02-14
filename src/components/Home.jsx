@@ -39,6 +39,7 @@ export function Home() {
               : {}
           }
           onMouseEnter={moveButton}
+          onClick={moveButton}
         >
           No
           {hoverCount > 0 && (
