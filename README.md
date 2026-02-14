@@ -1,1 +1,1 @@
-# FriendsProj
+# FriendsProject
